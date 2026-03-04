@@ -1,3 +1,6 @@
 output/**/*.7z
 output/*-*-Exam-Report.pdf
 .vscode
+.DS_Store
+.oscp.conf
+TARGETS/*/report/output/
